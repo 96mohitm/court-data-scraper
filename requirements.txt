@@ -15,7 +15,7 @@ hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
 jinja2-time==0.2.0
-lxml==4.3.3
+lxml==4.6.5
 numpy==1.16.2
 pandas==0.24.2
 parsel==1.5.1
